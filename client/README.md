@@ -34,7 +34,7 @@ frontend/
 │ └── index.html
 ├── src/
 │ ├── components/
-│ │ └── ... (your UI components)
+│ │ └── ... (UI components)
 │ ├── App.js
 │ ├── App.css
 │ ├── index.js
