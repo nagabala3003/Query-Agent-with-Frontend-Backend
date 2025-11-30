@@ -49,3 +49,12 @@ Dark/Light mode support
 ## ⭐ Support
 If this helped you, please ⭐ star the repo.
 https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend
+## 🔗 Live Project Links
+
+| Type      | Link |
+|----------|------|
+| Frontend Live | [https://query-agent-with-frontend-backend.vercel.app/](https://query-agent-with-frontend-backend.vercel.app/) |
+| Backend API   | [https://query-agent-backend.onrender.com](https://query-agent-backend.onrender.com) |
+| GitHub Repo   | [https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend](https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend) |
+| Demo Video    | [https://<your-video-link>](https://<your-video-link>) |
+
