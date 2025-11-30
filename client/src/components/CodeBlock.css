@@ -1,0 +1,24 @@
+.code-block {
+  background: #1f2937;
+  color: #f3f4f6;
+  padding: 12px;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.code-block code {
+  font-family: "Monaco", "Menlo", "Ubuntu Mono", "Courier New", monospace;
+  word-break: break-word;
+  white-space: pre-wrap;
+}
+
+.language-sql code {
+  color: #fbbf24;
+}
+
+.language-javascript code {
+  color: #93c5fd;
+}
