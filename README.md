@@ -51,10 +51,10 @@ If this helped you, please ⭐ star the repo.
 https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend
 ## 🔗 Live Project Links
 
-| Type      | Link |
-|----------|------|
-| Frontend Live | [https://query-agent-with-frontend-backend.vercel.app/](https://query-agent-with-frontend-backend.vercel.app/) |
-| Backend API   | [https://query-agent-backend.onrender.com](https://query-agent-backend.onrender.com) |
-| GitHub Repo   | [https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend](https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend) |
-| Demo Video    | [https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend/releases/download/Demo/Video.Project.mp4](https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend/releases/download/Demo/Video.Project.mp4) |
+| Type             | Link                                                                                                                                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🌐 Frontend Live | [https://query-agent-with-frontend-backend.vercel.app/](https://query-agent-with-frontend-backend.vercel.app/)                                                                                                           |
+| 💻 GitHub Repo   | [https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend](https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend)                                                                                   |
+| 🎥 Demo Video    | [https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend/releases/download/Demo/Video.Project.mp4](https://github.com/nagabala3003/Query-Agent-with-Frontend-Backend/releases/download/Demo/Video.Project.mp4) |
+
 
